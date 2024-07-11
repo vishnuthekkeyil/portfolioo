@@ -1,0 +1,99 @@
+.bg{
+    position: absolute;
+    width: 1680px;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-bottom: -8px;
+
+}
+.uu{
+    position: absolute;
+    top: 5px;
+    left: -13;
+    width: 877px;
+  
+
+}
+.pp{
+    width: 433px;
+    position: absolute;
+    top: 162px;
+    left: 1201.36px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.pp:hover{
+    scale: 112%;
+}
+
+.t2{
+    width: 549px;
+    position: absolute;
+    top: 378px;
+    left: 690px;
+
+
+}
+
+
+.hpa{
+    position: absolute;
+}
+
+
+@font-face {
+    font-family: myFont;
+    src: url(Inter-VariableFont_slnt,wght.ttf);
+}
+.ho{
+    position: absolute;
+    color: #000;
+    font-family: myFont;
+    font-weight: 900;
+    font-size: 20px;
+    letter-spacing: 1.5px;
+    left: 1008px;
+    top: 1px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.ho:hover{
+    scale: 110%;
+
+}
+
+.pr{
+    position: absolute;
+    color: #000;
+    font-family: myFont;
+    font-weight: bold;
+    font-size: 20px;
+    left: 1154px;
+    top: 1px;
+    cursor: pointer;
+    transition: 0.2s ease;
+    letter-spacing: 1.5px;
+    
+
+}
+.pr:hover{
+    scale: 110%;
+
+}
+
+.am{
+    position: absolute;
+    width: 149px;
+    color: #000;
+    font-family: myFont;
+    font-size: 20px;
+    left: 1339px;
+    top: 1px;
+    cursor: pointer;
+    transition: 0.2s ease;
+    letter-spacing: 1.5px;
+}
+.am:hover{
+    scale: 110%;
+
+}

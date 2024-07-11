@@ -1,0 +1,896 @@
+.main{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1680px;
+    height: 9197px;
+}
+
+.bgo{
+    background-color: #FF8A00;
+    width: 1680px;
+    height: 374px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    
+}
+
+
+.hpa{
+    position: absolute;
+}
+@font-face {
+    font-family: myFont;
+    src: url(Inter-VariableFont_slnt,wght.ttf);
+}
+.ho{
+    position: absolute;
+    color: #000;
+    font-family: myFont;
+    font-weight: bold;
+    font-size: 20px;
+    letter-spacing: 1.5px;
+    left: 1008px;
+    top: 1px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.ho:hover{
+    scale: 110%;
+
+}
+
+.pr{
+    position: absolute;
+    color: #000;
+    font-family: myFont;
+    font-weight: 900;
+    font-size: 20px;
+    left: 1154px;
+    top: 1px;
+    cursor: pointer;
+    transition: 0.2s ease;
+    letter-spacing: 1.5px;
+    
+
+}
+.pr:hover{
+    scale: 110%;
+
+}
+
+.am{
+    position: absolute;
+    width: 149px;
+    color: #000;
+    font-family: myFont;
+    font-weight: bolder;
+    font-size: 20px;
+    left: 1339px;
+    top: 1px;
+    cursor: pointer;
+    transition: 0.2s ease;
+    letter-spacing: 1.5px;
+}
+.am:hover{
+    scale: 110%;
+
+}
+
+.stc{
+    background-color: white;
+    width: 1680px;
+    height: 213px;
+    position: absolute;
+    left: 0px;
+    top: 375px;
+    box-shadow: 0 38px 78.6px rgba(0, 0, 0, 0.1), 0 38px 78.6px rgba(0, 0, 0, 0.1);
+}
+.stit{
+    width: 454px;
+    height: 128px;
+    position: absolute;
+    left: 613px;
+    top: 402px;
+
+}
+
+.tbosa{
+    font-size: 21.5px;
+    color: #000;
+    font-family: myFont;
+
+    font-weight: 300;
+    position: absolute;
+    left: 619px;
+    top: 507px;
+}
+.pro{
+    font-family: myFont;
+    font-size: 64px;
+    position: absolute;
+    left: 681px;
+    top: 187px;
+    font-weight: 900;
+    letter-spacing: -3px;
+    color: white;
+
+
+}
+.pm{
+    position: absolute;
+    left: 1000px;
+    top:596px;
+    width: 373px;
+    height: 494px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.pm:hover{
+    scale: 110%;
+
+}
+.lpm{
+    position: absolute;
+    left: 834px;
+    top:623px;
+    width: 373px;
+    height: 494px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.lpm:hover{
+    scale: 110%;
+
+}
+.tu{
+    position: absolute;
+    left: 479px;
+    top: 820px;
+    font-family: myFont;
+    font-size: 32px;
+    font-weight: 400;
+    letter-spacing: -2px;
+
+
+}
+
+.fig{
+    position: relative;
+    width: 53px;
+    height: 53px;
+    top: 835px;
+    left: 621px;
+}
+
+.bgoo{
+    background-color: #FF8A00;
+    width: 1680px;
+    height: 679px;
+    position: absolute;
+    top: 1117px;
+    left: 0px;
+    
+}
+.typ{
+    position: absolute;
+    top: 1179px;
+    left: 110px;
+    font-family: myFont;
+    font-size: 32px;
+    font-weight: 900;
+    letter-spacing: 15px;
+    color: white;
+}
+.abc{
+    position: absolute;
+    top: 1317px;
+    left: 560px;
+    font-family: myFont;
+    font-size: 36px;
+    font-weight: 400;
+    color: white;
+    letter-spacing: 8px;
+
+
+}
+.int{
+    position: absolute;
+    top: 1425px;
+    left: 154px;
+    font-family: myFont;
+    font-size: 64px;
+    font-weight: 700;
+    color: white;
+
+
+}
+
+.el{
+    position: absolute;
+    top: 1469px;
+    left: 721px;
+    font-family: myFont;
+    font-size: 29px;
+    font-weight: 200;
+    color: white;
+
+}
+.lig{
+    position: absolute;
+    top: 1504px;
+    left: 721px;
+    font-family: myFont;
+    font-size: 29px;
+    font-weight: 300;
+    color: white;
+
+}
+.re{
+    position: absolute;
+    top: 1539px;
+    left: 721px;
+    font-family: myFont;
+    font-size: 29px;
+    font-weight: 400;
+    color: white;
+
+}
+.me{
+    position: absolute;
+    top: 1574px;
+    left: 721px;
+    font-family: myFont;
+    font-size: 29px;
+    font-weight: 500;
+    color: white;
+
+}
+.se{
+    position: absolute;
+    top: 1609px;
+    left: 721px;
+    font-family: myFont;
+    font-size: 29px;
+    font-weight: 600;
+    color: white;
+
+}
+.bo{
+    position: absolute;
+    top: 1644px;
+    left: 721px;
+    font-family: myFont;
+    font-size: 29px;
+    font-weight: 700;
+    color: white;
+
+}
+.ex{
+    position: absolute;
+    top: 1679px;
+    left: 721px;
+    font-family: myFont;
+    font-size: 29px;
+    font-weight: 800;
+    color: white;
+
+}
+.bl{
+    position: absolute;
+    top: 1714px;
+    left: 721px;
+    font-family: myFont;
+    font-size: 29px;
+    font-weight: 900;
+    color: white;
+
+}
+
+.dt1{
+    position: absolute;
+    left: 691px;
+    top: 1510px;
+    background-color: white;
+    width: 11px;
+    height: 11px;
+    border-radius: 5.5px;
+}
+.dot2{
+    position: absolute;
+    left: 691px;
+    top: 1545px;
+    background-color: white;
+    width: 11px;
+    height: 11px;
+    border-radius: 5.5px;
+
+}
+.dot3{
+    position: absolute;
+    left: 691px;
+    top: 1580px;
+    background-color: white;
+    width: 11px;
+    height: 11px;
+    border-radius: 5.5px;
+
+}
+.dot4{
+    position: absolute;
+    left: 691px;
+    top: 1615px;
+    background-color: white;
+    width: 11px;
+    height: 11px;
+    border-radius: 5.5px;
+
+}
+.dot5{
+    position: absolute;
+    left: 691px;
+    top: 1650px;
+    background-color: white;
+    width: 11px;
+    height: 11px;
+    border-radius: 5.5px;
+
+}
+.dot6{
+    position: absolute;
+    left: 691px;
+    top: 1685px;
+    background-color: white;
+    width: 11px;
+    height: 11px;
+    border-radius: 5.5px;
+
+}
+.dot7{
+    position: absolute;
+    left: 691px;
+    top: 1720px;
+    background-color: white;
+    width: 11px;
+    height: 11px;
+    border-radius: 5.5px;
+
+}
+.dot8{
+    position: absolute;
+    left: 691px;
+    top: 1755px;
+    background-color: white;
+    width: 11px;
+    height: 11px;
+    border-radius: 5.5px;
+
+}
+
+/* .dots{
+    position: absolute;
+    top: 
+} */
+
+
+.clrs{
+    position: absolute;
+    left: 110px;
+    top: 1860px;
+    color: white;
+    font-family: myFont;
+    font-size: 32px;
+    font-weight: 900;
+    letter-spacing: 15px;
+
+}
+.red{
+    position: absolute;
+    top: 1981px;
+    left: 1142px;
+    width: 273px;
+    height: 348px;
+    background-color: #FF0000;
+    border-radius: 37px;
+    cursor: pointer;
+    transition: 0.2s ease;
+
+}
+
+.b1{
+    position: absolute;
+    top: 1981px;
+    left: 1001px;
+    width: 273px;
+    height: 348px;
+    background-color: #E4E9ED;
+    border-radius: 37px;
+    box-shadow: 0 7px 10px rgba(0, 0, 0, 0.1), 0 7px 10px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: 0.2s ease;
+
+
+}
+.b2{
+    position: absolute;
+    top: 1981px;
+    left: 861px;
+    width: 273px;
+    height: 348px;
+    background-color: #C8D2DA;
+    border-radius: 37px;
+    box-shadow: 0 7px 10px rgba(0, 0, 0, 0.1), 0 7px 10px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: 0.2s ease;
+
+
+}
+.b3{
+    position: absolute;
+    top: 1981px;
+    left: 717px;
+    width: 273px;
+    height: 348px;
+    background-color: #B5C1CD;
+    border-radius: 37px;
+    box-shadow: 0 7px 10px rgba(0, 0, 0, 0.1), 0 7px 10px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: 0.2s ease;
+
+
+}
+.b3{
+    position: absolute;
+    top: 1981px;
+    left: 717px;
+    width: 273px;
+    height: 348px;
+    background-color: #B5C1CD;
+    border-radius: 37px;
+    box-shadow: 0 7px 10px rgba(0, 0, 0, 0.1), 0 7px 10px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: 0.2s ease;
+    
+
+}
+.g1{
+    position: absolute;
+    top: 1981px;
+    left: 576px;
+    width: 273px;
+    height: 348px;
+    background-color: #D9D9D9;
+    border-radius: 37px;
+    box-shadow: 0 7px 10px rgba(0, 0, 0, 0.1), 0 7px 10px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: 0.2s ease;
+
+
+}
+.g2{
+    position: absolute;
+    top: 1981px;
+    left: 436px;
+    width: 273px;
+    height: 348px;
+    background-color: #838383;
+    border-radius: 37px;
+    box-shadow: 0 7px 10px rgba(0, 0, 0, 0.1), 0 7px 10px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: 0.2s ease;
+
+
+}
+.blac{
+    position: absolute;
+    top: 1981px;
+    left: 289px;
+    width: 273px;
+    height: 348px;
+    background-color: black;
+    border-radius: 37px;
+    box-shadow: 0 7px 10px rgba(0, 0, 0, 0.1), 0 7px 10px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    transition: 0.2s ease;
+
+
+}
+
+.clr1{
+    background-color: red;
+    padding: 30px 5px 30px 50px;
+}
+
+.ufw{
+    position: absolute;
+    top: 2485px;
+    left: 0px;
+    width: 1680px;
+    height: 1377px;
+}
+.usrflw{
+    position: absolute;
+    left: 116px;
+    top: 2529px;
+    color: #D9D9D9;
+    font-family: myFont;
+    font-size: 32px;
+    font-weight: 900;
+    letter-spacing: 15px;
+
+
+}
+
+.tlbg1{
+    position: absolute;
+    background-color: #FF8A00;
+    width: 1680px;
+    height: 150px;
+    top: 3862px;
+    left: 0px;
+}
+
+.lss{
+    position: absolute;
+    left: 665px;
+    top: 3890px;
+    color: white;
+    font-family: myFont;
+    font-size: 32px;
+    font-weight: 900;
+    letter-spacing: -1.5px;
+
+}
+
+.v1{
+    position: absolute;
+    width: 1575.44px;
+    height: 221.19px;
+    top: 4213.25px;
+    left: 40.41px;
+}
+
+.mob1{
+    position: absolute;
+    left: 276px;
+    top: 4012px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.mob1:hover{
+    scale: 110%;
+}
+.mob2{
+    position: absolute;
+    left: 840px;
+    top: 4012px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.mob2:hover{
+    scale: 110%;
+}
+
+.tlbg2{
+    position: absolute;
+    background-color: #FF8A00;
+    width: 1680px;
+    height: 150px;
+    top: 4695px;
+    left: 0px;
+}
+
+.hsn{
+    position: absolute;
+    left: 733px;
+    top: 4723px;
+    color: white;
+    font-family: myFont;
+    font-size: 32px;
+    font-weight: 900;
+    letter-spacing: -1.5px;
+
+}
+
+.v2{
+    position: absolute;
+    left: 282px;
+    top: 5046px;
+
+}
+
+.mob3{
+    position: absolute;
+    left: 582px;
+    top: 4845px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.mob3:hover{
+    scale: 110%;
+}
+
+.ftr{
+    position: absolute;
+    left: 622px;
+    top: 5606px;
+}
+
+.mob4{
+    position: absolute;
+    left: 40px;
+    top: 5688px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.mob4:hover{
+    scale: 110%;
+}
+.mob5{
+    position: absolute;
+    left: 570px;
+    top: 5820px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.mob5:hover{
+    scale: 110%;
+}
+
+.mob6{
+    position: absolute;
+    left: 1098px;
+    top: 5688px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.mob6:hover{
+    scale: 110%;
+}
+.arrw1{
+    position: absolute;
+    left: 551.42px;
+    top: 5273px;
+
+}
+.arrw2{
+    position: absolute;
+    left: 430.5px;
+    top: 5667.4px;
+}
+.arrw3{
+    position: absolute;
+    left: 812.03px;
+    top: 5658.5px;
+}
+
+.arrw4{
+    position: absolute;
+    left: 1006px;
+    top: 5655px;
+}
+
+.tlbg3{
+    position: absolute;
+    background-color: #FF8A00;
+    width: 1680px;
+    height: 150px;
+    top: 6509px;
+    left: 0px;
+}
+.prdctt{
+    position: absolute;
+    left: 766px;
+    top: 6537px;
+    color: white;
+    font-family: myFont;
+    font-size: 32px;
+    font-weight: 900;
+    letter-spacing: -1.5px;
+
+}
+
+.mob7{
+    position: absolute;
+    left: 30px;
+    top: 6659px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.mob7:hover{
+    scale: 110%;
+}
+.mob8{
+    position: absolute;
+    left: 570px;
+    top: 6659px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.mob8:hover{
+    scale: 110%;
+}
+.mob9{
+    position: absolute;
+    left: 1110px;
+    top: 6659px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.mob9:hover{
+    scale: 110%;
+}
+
+.arrw5{
+    position: absolute;
+    left: 392.5px;
+    top: 6884px;
+}
+.arrw6{
+    position: absolute;
+    left: 936.5px;
+    top: 6900px;
+}
+
+.tlbg4{
+    position: absolute;
+    background-color: #FF8A00;
+    width: 1680px;
+    height: 150px;
+    top: 7330px;
+    left: 0px;
+}
+
+.tailr{
+    position: absolute;
+    left: 786px;
+    top: 7358px;
+    color: white;
+    font-family: myFont;
+    font-size: 32px;
+    font-weight: 900;
+    letter-spacing: -1.5px;
+
+}
+
+.v3{
+    position: absolute;
+    left: 53px;
+    top: 7680.25px;
+}
+.mob10{
+    position: absolute;
+    left: 76px;
+    top: 7479px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.mob10:hover{
+    scale: 110%;
+}
+
+.mob11{
+    position: absolute;
+    left: 582px;
+    top: 7780px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.mob11:hover{
+    scale: 110%;
+}
+
+.mob12{
+    position: absolute;
+    left: 1125px;
+    top: 7479px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.mob12:hover{
+    scale: 110%;
+}
+
+.mob13{
+    position: absolute;
+    left: 1125px;
+    top: 8064px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.mob13:hover{
+    scale: 110%;
+}
+
+.arrw7{
+    position: absolute;
+    left: 316.5px;
+    top:7700px;
+}
+
+.arrw8{
+    position: absolute;
+    left: 927.71px;
+    top: 7920px;
+}
+.arrw9{
+    position: absolute;
+    left:915.9px;
+    top: 8066px;
+}
+
+.ftrbg{
+    position: absolute;
+    background-color: #FF8A00;
+    width: 1680px;
+    height: 458px;
+    left: 0px;
+    top: 8739px;
+}
+
+
+
+
+.vhfpbttn{
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    left: 677px;
+    top: 8844px;
+    font-family: myFont;
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+    background-color: white;
+    width: 326px;
+    /* height: 56px; */
+    border-radius: 42px;
+    padding: 20px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.vhfpbttn:hover{
+    scale: 105%;
+}
+
+.ty{
+    position: absolute;
+    top: 8946px;
+    left: 380px;
+    font-family: myFont;
+    font-size: 36px;
+    font-weight: 500;
+    color: white;
+    
+}
+
+.mail{
+    position: absolute;
+    left: 794px;
+    top: 9032px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.mail:hover{
+    scale: 110%;
+}
+.in{
+    position: absolute;
+    left: 852px;
+    top: 9029px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.in:hover{
+    scale: 110%;
+}
+
+
+
+
+
+
+    
+

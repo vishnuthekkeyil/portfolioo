@@ -1,0 +1,294 @@
+.bg{
+    position: absolute;
+    width: 1680px;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-bottom: -8px;
+
+}
+.uu{
+    position: absolute;
+    top: 5px;
+    left: -13;
+    width: 877px;
+    opacity: 30%;
+  
+
+}
+
+
+
+
+.hpa{
+    position: absolute;
+}
+
+
+.pp{
+    position: relative;
+    top: 227px;
+    left: 721px;
+}
+
+
+
+@font-face {
+    font-family: myFont;
+    src: url(Inter-VariableFont_slnt,wght.ttf);
+}
+.ho{
+    position: absolute;
+    color: #000;
+    font-family: myFont;
+    font-weight: bold;
+    font-size: 20px;
+    letter-spacing: 1.5px;
+    left: 1008px;
+    top: 1px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.ho:hover{
+    scale: 110%;
+
+}
+
+.pr{
+    position: absolute;
+    color: #000;
+    font-family: myFont;
+    font-weight: bold;
+    font-size: 20px;
+    left: 1154px;
+    top: 1px;
+    cursor: pointer;
+    transition: 0.2s ease;
+    letter-spacing: 1.5px;
+    
+
+}
+.pr:hover{
+    scale: 110%;
+
+}
+
+.am{
+    position: absolute;
+    width: 149px;
+    color: #000;
+    font-family: myFont;
+    font-weight: 900;
+    font-size: 20px;
+    left: 1339px;
+    top: 1px;
+    cursor: pointer;
+    transition: 0.2s ease;
+    letter-spacing: 1.5px;
+}
+.am:hover{
+    scale: 110%;
+
+}
+
+
+.vt1{
+    position: absolute;
+    font-size: 24px;
+    top: 529px;
+    left: 690px;
+    color: #000;
+    font-family: myFont;
+    letter-spacing: 6.5px;
+
+
+}
+
+
+.ct{
+    position: absolute;
+    font-size: 20px;
+    top: 558px;
+    left: 719px;
+    color: #000;
+    font-family: myFont;
+    font-weight: 300;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.ct:hover{
+    scale: 104%;
+
+}
+
+
+
+.wai{
+    position: absolute;
+    font-size: 24px;
+    top: 570px;
+    left: 1155px;
+    color: #000;
+    font-family: myFont;
+    letter-spacing: 6.5px;
+
+
+}
+
+.wai1{
+    position: absolute;
+    font-size: 20px;
+    width: 380px;
+    top: 602px;
+    left: 1211px;
+    color: #000;
+    font-family: myFont;
+    font-weight: 300;
+
+
+
+}
+
+.edu{
+    position: absolute;
+    font-size: 24px;
+    top: 760px;
+    left: 1154px;
+    color: #000;
+    font-family: myFont;
+    letter-spacing: 6.5px;
+
+
+}
+
+.bsc{
+    position: absolute;
+    font-size: 20px;
+    width: 380px;
+    top: 789px;
+    left: 1211px;
+    color: #000;
+    font-family: myFont;
+    font-weight: 300;
+
+
+
+}
+
+.sk{
+    position: absolute;
+    font-size: 24px;
+    top: 570px;
+    left: 311px;
+    color: #000;
+    font-family: myFont;
+    letter-spacing: 6.5px;
+
+
+}
+
+.sk1{
+    position: absolute;
+    font-size: 20px;
+    width: 187px;
+    top: 602px;
+    left: 368px;
+    color: #000;
+    font-family: myFont;
+    font-weight: 300;
+
+
+
+}
+
+
+.fi{
+    position: absolute;
+    left: 276px;
+    top: 805px;
+    width: 41px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.fi:hover{
+    scale: 115%;
+
+}
+
+.ap{
+    position: absolute;
+    left: 333px;
+    top: 805px;
+    width: 41px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.ap:hover{
+    scale: 115%;
+
+}
+
+
+.ps{
+    position: absolute;
+    left: 390px;
+    top: 805px;
+    width: 41px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.ps:hover{
+    scale: 115%;
+
+}
+
+.ae{
+    position: absolute;
+    left: 447px;
+    top: 805px;
+    width: 41px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.ae:hover{
+    scale: 115%;
+
+}
+
+.tm{
+    position: absolute;
+    left: 504px;
+    top: 805px;
+    width: 41px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.tm:hover{
+    scale: 115%;
+
+}
+
+.sss{
+    position: absolute;
+    left: 561px;
+    top: 805px;
+    width: 41px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.sss:hover{
+    scale: 115%;
+
+}
+
+.ava{
+    position: absolute;
+    left: 618px;
+    top: 805px;
+    width: 41px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.ava:hover{
+    scale: 115%;
+
+}

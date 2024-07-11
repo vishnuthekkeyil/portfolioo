@@ -1,0 +1,200 @@
+.main{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1680px;
+    height: 1534px;
+}
+
+.bgo{
+    background-color: #FF8A00;
+    width: 1680px;
+    height: 374px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    
+}
+
+
+.hpa{
+    position: absolute;
+}
+@font-face {
+    font-family: myFont;
+    src: url(Inter-VariableFont_slnt,wght.ttf);
+}
+.ho{
+    position: absolute;
+    color: #000;
+    font-family: myFont;
+    font-weight: bold;
+    font-size: 20px;
+    letter-spacing: 1.5px;
+    left: 1008px;
+    top: 1px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.ho:hover{
+    scale: 110%;
+
+}
+
+.pr{
+    position: absolute;
+    color: #000;
+    font-family: myFont;
+    font-weight: 900;
+    font-size: 20px;
+    left: 1154px;
+    top: 1px;
+    cursor: pointer;
+    transition: 0.2s ease;
+    letter-spacing: 1.5px;
+    
+
+}
+.pr:hover{
+    scale: 110%;
+
+}
+
+.am{
+    position: absolute;
+    width: 149px;
+    color: #000;
+    font-family: myFont;
+    font-weight: bolder;
+    font-size: 20px;
+    left: 1339px;
+    top: 1px;
+    cursor: pointer;
+    transition: 0.2s ease;
+    letter-spacing: 1.5px;
+}
+.am:hover{
+    scale: 110%;
+
+}
+
+.pro{
+    font-family: myFont;
+    font-size: 64px;
+    position: absolute;
+    left: 681px;
+    top: 187px;
+    font-weight: 900;
+    letter-spacing: -3px;
+    color: white;
+
+
+}
+.stit{
+    width: 454px;
+    height: 128px;
+    position: absolute;
+    left: 961px;
+    top: 553px;
+
+}
+.tbosa{
+    font-size: 21.5px;
+    color: #000;
+    font-family: myFont;
+    font-weight: 300;
+    position: absolute;
+    left: 967px;
+    top: 660px;
+}
+
+.pm{
+    position: absolute;
+    left: 432px;
+    top:437px;
+    width: 373px;
+    height: 494px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.pm:hover{
+    scale: 110%;
+
+}
+.lpm{
+    position: absolute;
+    left: 266px;
+    top: 464px;
+    width: 373px;
+    height: 494px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.lpm:hover{
+    scale: 110%;
+
+}
+.vcs{
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    left: 1010px;
+    top: 759px;
+    font-family: myFont;
+    font-size: 20px;
+    font-weight: 500;
+    color: black;
+    background-color: #FF8A00;
+    width: 326px;
+    /* height: 56px; */
+    border-radius: 42px;
+    padding: 20px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.vcs:hover{
+    scale: 105%;
+}
+
+
+.ftrbg{
+    position: absolute;
+    background-color: #FF8A00;
+    width: 1680px;
+    height: 458px;
+    left: 0px;
+    top: 1076px;
+}
+
+.ty{
+    position: absolute;
+    top: 1283px;
+    left: 380px;
+    font-family: myFont;
+    font-size: 36px;
+    font-weight: 500;
+    color: white;
+    
+}
+
+.mail{
+    position: absolute;
+    left: 794px;
+    top: 1369px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.mail:hover{
+    scale: 110%;
+}
+.in{
+    position: absolute;
+    left: 852px;
+    top: 1366px;
+    cursor: pointer;
+    transition: 0.2s ease;
+}
+.in:hover{
+    scale: 110%;
+}
